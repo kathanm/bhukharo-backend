@@ -1,3 +1,6 @@
+# Custom exclusions
+.idea/
+
 # Logs
 logs
 *.log
