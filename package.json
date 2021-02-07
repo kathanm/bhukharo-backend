@@ -1,0 +1,22 @@
+{
+  "name": "bhukharo-backend",
+  "version": "0.0.1",
+  "description": "bhukharo card game backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathanm/bhukharo-backend.git"
+  },
+  "author": "Kathan Master",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kathanm/bhukharo-backend/issues"
+  },
+  "homepage": "https://github.com/kathanm/bhukharo-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
